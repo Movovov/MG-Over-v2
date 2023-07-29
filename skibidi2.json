@@ -27,7 +27,7 @@
         "image": "https://images.pexels.com/photos/15290406/pexels-photo-15290406.jpeg",
         "color": "#ffffff",
         "text_size": "20",
-        "isLink": false,
+        "isLink": true,
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
