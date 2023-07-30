@@ -23,7 +23,7 @@
     "elements": [
 	   
       {
-        "title": "How To Make A game",
+        "title": "skibidi vs wario",
         "image": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/skibidi%20vs%20wario.jpg",
         "color": "#ffffff",
         "text_size": "20",
@@ -31,21 +31,21 @@
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "If you’re looking to start earning Robux, the best place to start is by building your own game within The Game that other players can check out. After creating and submitting your game, you’ll have an opportunity to grow a following and earn Robux based on the number of premium players that play your game. The best part is anyone can enroll in this program and start earning Robux based on player engagement as well as other potential revenue sources.",
+        "text": "Skibidi Toilet vs Wario is an interesting adventure game to play. Race against the Wario and win the game as a Skibidi. Collect all the items on the way and avoid the traps around you which can destroy you instantly. Try to be as fast as you can and race against the Wario. Enjoy all the challenging levels and win the game.",
         "isNative": true,
 		"background": "#000000"
       },
       {
-        "title": "How To Sell Random Chance Items",
+        "title": "Steve and Alex Skibidi Toilet",
         "image": "https://cdn.pixabay.com/photo/2023/01/06/16/25/boy-7701662_960_720.jpg",
 		"color": "#ffffff",
         "text_size": "20",
         "isLink": true,
 		"link_title": "play",
-		"setLink": "https://storage.y8.com/video-igrice/html5/skibidi-toilet-rush/",
+		"setLink": "https://storage.y8.com/y8-studio/html5/fbkgames/steve_and_alex_skibidi_toilet/",
         "image_link": "",
-        "text": "Anyone who makes a game on The Game can choose to sell random chance items that may come in hand with a particular challenge or reduce the amount of grind required to progress. The pricing is left up to the game maker and the only stipulation is that players must be aware of the odds of getting a particular item prior to making a purchase. With that said, it’s all too common to see creators make a mistake and accidentally violate The Game’s terms of service, so make sure to do your research before pricing any items.",
-        "isNative": false,
+        "text": "Steve and Alex Skibidi Toilet is an epic chasing game for one or two players. You need to run out and escape from the Skibidi Toilet. Jump over obstacles and collect coins to buy a new hero.",
+        "isNative": true,
 		"background": "#000000"
       }
     ]
